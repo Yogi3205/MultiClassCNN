@@ -1,0 +1,10 @@
+venv/
+.venv/
+dataset/
+__pycache__/
+*.h5
+*.keras
+*.dll
+*.zip
+*.exe
+*.pyc
